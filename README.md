@@ -13,3 +13,18 @@ Download following file and save the saved_models.
 This is required to run the code.
 
 https://drive.google.com/file/d/1EcKPSebDvc3KlSQOduF1UyHpa56Rv1cD/view?usp=sharing
+
+The above code is the official implementation of the preprint "A Novel Vision Transformer with Probabilistic Residual in Self-attention for Pattern Recognition"
+Its older version is as follow:
+https://arxiv.org/abs/2306.01594
+
+If this code or any part of the code is used for further research, please cite:
+@misc{sharma2023novelvisiontransformerresidual,
+      title={A Novel Vision Transformer with Residual in Self-attention for Biomedical Image Classification}, 
+      author={Arun K. Sharma and Nishchal K. Verma},
+      year={2023},
+      eprint={2306.01594},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2306.01594}, 
+}
