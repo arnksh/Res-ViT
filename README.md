@@ -19,6 +19,8 @@ Its older version is as follow:
 https://arxiv.org/abs/2306.01594
 
 If this code or any part of the code is used for further research, please cite:
+
+
 @misc{sharma2023novelvisiontransformerresidual,
       title={A Novel Vision Transformer with Residual in Self-attention for Biomedical Image Classification}, 
       author={Arun K. Sharma and Nishchal K. Verma},
